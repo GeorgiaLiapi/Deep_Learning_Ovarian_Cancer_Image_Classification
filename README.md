@@ -32,8 +32,8 @@ Project: Histological and Molecular Classification of Ovarian Cancer H&E and Fro
       c) Create 3 subfolders inside the 'RESULTS' folder 
          (HISTOLOGICAL_SUBTYPES, TCGA_DX_MOLECULAR_SUBTYPES, TCGA_KR_MOLECULAR_SUBTYPES)                                         
       d) move the provided project scripts to the SCRIPTS folder                                        
-      e) move the Simon Fraser table 'transcanadian_training and test set slides.xls' and                                          
-         the 'NIHMS958065-supplement-4.xlsx' also to the SCRIPTS folder
+      e) move the table 'transcanadian_training and test set slides.xls' (SFU dataset) and                                          
+         the 'NIHMS958065-supplement-4.xlsx' (Berger et al., 2018) also to the SCRIPTS folder
                                                  
     Install: Anaconda for Windows 64 (https://www.anaconda.com/)
              Visual Studio 2017 (https://visualstudio.microsoft.com/vs/older-downloads/) 
