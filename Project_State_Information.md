@@ -5,7 +5,7 @@
 The Python-based approach was based on the idea of treating the images as 'full paths', organized in tables, all the way through the scripts
 until providing them to the CNNs. This was achieved by utilizing the Keras ‘flow_from_dataframe’ method of the ‘ImageDataGenerator’ class.
 
-*All scripts, in this repository's 'SCRIPTS' folder, were created by me, with an experience of one year in the Python language and
+*Ten scripts, in this repository's 'SCRIPTS' folder, were created by me, with an experience of one year in the Python language and
 interaction with Tensorflow and Keras. It is clear that there is plenty of space for improvements and more ideas. Also, I accept that there 
 might be areas that do not fully comply with what is believed to be 'a high quality code' (which is always very useful). 
 I am still improving my skills.*
