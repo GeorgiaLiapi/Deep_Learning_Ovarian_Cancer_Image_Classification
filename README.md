@@ -235,7 +235,7 @@ Steps:
     || Contributors: Reiichiro Nakano, Christopher Wells, wikke;, lugq,  Ryan Joshua Liwag, Matthew Emery, Lj Miranda, Joshua Engelman,
                      Frank Herfert, Emre Can, Doug Friedman, Christopher Ren
     
-       Note: The adjusted plot_roc() is utilized for the current project, with some added arguments (Data, Idx) and minor changes in the current lines 74-75.                
+       Note: The adjusted precision_recall() is utilized for the current project, with some added arguments (Data, Idx) and minor changes in the current lines 74-75.                
           
 (12) 'Predict.py' (function)
 
