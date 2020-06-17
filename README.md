@@ -208,7 +208,7 @@ Steps:
     || Contributors: Reiichiro Nakano, Christopher Wells, wikke;, lugq,  Ryan Joshua Liwag, Matthew Emery, Lj Miranda, Joshua Engelman,
                      Frank Herfert, Emre Can, Doug Friedman, Christopher Ren
                      
-    Note: The adjusted plot_roc() is utilized for the current project, with some added arguments (Data, Idx) and minor changes in the             current lines 61-62.                 
+    Note: The adjusted plot_roc() is utilized for the current project, with some added arguments (Data, Idx) and minor changes in thE current lines 61-62.                 
                  
 (10) 'calc_roc_auc.py'  (function) 
 
@@ -220,7 +220,7 @@ Steps:
         The following function is part of the original plot_roc_curve() from the 'plotters.py' (lines 186-330) that belongs to: 
         reiinakano/scikit-plot repository (https://github.com/reiinakano/scikit-plot) **
         
-    Note: The following lines 26-46 come from the lines 243 to 260 of the original plot_roc_curve() of the reiinakano/scikit-plot                 repository. 
+    Note: The following lines 26-46 come from the lines 243 to 260 of the original plot_roc_curve() of the reiinakano/scikit-ploT repository. 
      
 (11) 'precision_recall.py'  (function) 
 
@@ -234,6 +234,8 @@ Steps:
     ||-------------------------------------------------------------------------------------------  
     || Contributors: Reiichiro Nakano, Christopher Wells, wikke;, lugq,  Ryan Joshua Liwag, Matthew Emery, Lj Miranda, Joshua Engelman,
                      Frank Herfert, Emre Can, Doug Friedman, Christopher Ren
+    
+       Note: The adjusted plot_roc() is utilized for the current project, with some added arguments (Data, Idx) and minor changes in the current lines 74-75.                
           
 (12) 'Predict.py' (function)
 
