@@ -193,7 +193,7 @@ Steps:
     
     || DISCLAIMER: THIS PART WAS NOT A PRODUCT OF THE WORK OF GEORGIA LIAPI! || 
     || DISCLAIMER: THE FOLLOWING FUNCTION'S CONTENT WAS NOT A PRODUCT OF THE WORK OF GEORGIA LIAPI! || 
-    || The following function's content is a plotting paradigm belonging to the 'tensorflow.org',                                              https://www.tensorflow.org/tutorials/images/classification?authuser=0&hl=zh-cn
+    || The following function's content is a plotting paradigm belonging to the 'tensorflow.org',                                     https://www.tensorflow.org/tutorials/images/classification?authuser=0&hl=zh-cn
 
 (9) 'plot_roc.py'  (function) 
 
