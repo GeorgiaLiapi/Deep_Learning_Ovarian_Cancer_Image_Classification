@@ -191,7 +191,6 @@ Steps:
     This function will be used in the 'Train_Val_Pred.py' (function)
     The arguments for 'plot_metrics.py' are being set automatically inside 'Train_Val_Pred.py'   
     
-    || DISCLAIMER: THIS PART WAS NOT A PRODUCT OF THE WORK OF GEORGIA LIAPI! || 
     || DISCLAIMER: THE FOLLOWING FUNCTION'S CONTENT WAS NOT A PRODUCT OF THE WORK OF GEORGIA LIAPI! || 
     || The following function's content is a plotting paradigm belonging to the 'tensorflow.org',                                     https://www.tensorflow.org/tutorials/images/classification?authuser=0&hl=zh-cn
 
