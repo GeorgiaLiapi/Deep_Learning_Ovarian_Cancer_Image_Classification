@@ -8,10 +8,15 @@ Project: Histological and Molecular Classification of Ovarian Cancer H&E and Fro
         Image Datasets: Ovarian Carcinomas Histopathology Dataset (Simon Fraser University) (SFU) from Köbel et al., 2010
                         TCGA-OV-DX (H&E-stained images)                                     (DX)
                         TCGA-OV-KR (Frosen Tumor Tissue images)                             (KR)
-        Histological subtypes: Table 'transcanadian_training and test set slides.xls', http://ensc-mica-www02.ensc.sfu.ca/download/
-           Molecular subtypes: Table S4 'NIHMS958065-supplement-4.xlsx', Berger et al., 2018, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5959730/ 
-    
-    Below are the steps and order of using each Script for this project.
+        Histological subtypes: Table 'transcanadian_training and test set slides.xls', 
+                               http://ensc-mica-www02.ensc.sfu.ca/download/
+           Molecular subtypes: Table S4 'NIHMS958065-supplement-4.xlsx', 
+                               Berger et al., 2018, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5959730/ 
+           
+           
+    || NOTE: The provided scripts can be applied for any of the three above-mentioned images datasets.
+              To use them for new datasets, adjustments are needed in all scripts! 
+    --------------------------------------------------------------------------------------------------
     
     To begin with, 6 folders must be ready (2 per dataset): 
     
@@ -25,7 +30,8 @@ Project: Histological and Molecular Classification of Ovarian Cancer H&E and Fro
         many subfolders as the number of the primary svs images. Each folder inside a new jpg image directory 
         corresponds to a patient and holds inside all the jpg images of the current patient's tumor.
         
-        **Bankhead P, Loughrey MB, Fernández JA, Dombrowski Y, McArt DG, Dunne PD, et al. QuPath: Open source software for digital                 pathology image analysis. Sci Rep. 2017 Dec;7(1):16878
+        **Bankhead P, Loughrey MB, Fernández JA, Dombrowski Y, McArt DG, Dunne PD, et al. QuPath: Open source
+        software for digital pathology image analysis. Sci Rep. 2017 Dec;7(1):16878
         
     Second, a directory must be structured: 
     
