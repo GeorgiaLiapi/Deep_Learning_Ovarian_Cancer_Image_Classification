@@ -27,7 +27,7 @@ OV_KR_SVS = '..\\TCGA_OV_KRsvs'
 #                         Molecular Data Excel
 #------------------------------------------------------------------------------
 
-# Import the Berger molecular annotation
+# Import the Berger et al. molecular annotation
 Mol_Data_excel = pd.read_excel(Current_Dir + '\\' + 'NIHMS958065-supplement-4.xlsx', index=0, header=1)
 
 # Filter to keep only the OV data
